@@ -673,7 +673,12 @@ ily of Wasserstein GANs (WGANs) is considered to be state-of-the-art due to the 
 $ cd implementations/wgan_div/
 $ python3 wgan_div.py
 ```
-
+MNIST Result:
 <p align="center">
     <img src="assets/wgan_div.gif" width="240"\>
+</p>
+
+Face Super-Resolution Result:
+<p align="center">
+    <img src="assets/wgan_div.png" width="240"\>
 </p>
